@@ -1,0 +1,194 @@
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\appsettings.json
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.deps.json
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.runtimeconfig.json
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.runtimeconfig.dev.json
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.dll
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.pdb
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.Views.dll
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.Views.pdb
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.csproj.AssemblyReference.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.AssemblyInfoInputs.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.AssemblyInfo.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.csproj.CoreCompileInputs.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorAssemblyInfo.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorAssemblyInfo.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\scopedcss\bundle\AtividadePizzariaIsmael.styles.css
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\staticwebassets\AtividadePizzariaIsmael.StaticWebAssets.Manifest.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.TagHelpers.input.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.TagHelpers.output.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorCoreGenerate.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Atualizar.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Criar.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Deletar.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Detalhes.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Index.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Atualizar.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Criar.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Deletar.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Detalhes.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Index.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\_NovoItem.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Atualizar.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Criar.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Deletar.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Detalhes.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Index.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorTargetAssemblyInfo.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorTargetAssemblyInfo.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.Views.pdb
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.dll
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\refint\AtividadePizzariaIsmael.dll
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.pdb
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.genruntimeconfig.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\ref\AtividadePizzariaIsmael.dll
+C:\Users\ismae\OneDrive\Área de Trabalho\ProjetoPizzaria\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.csproj.CopyComplete
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\appsettings.json
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.deps.json
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.runtimeconfig.json
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.runtimeconfig.dev.json
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\ref\AtividadePizzariaIsmael.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.pdb
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.Views.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.Views.pdb
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.AssemblyInfoInputs.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.AssemblyInfo.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.csproj.CoreCompileInputs.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorAssemblyInfo.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorAssemblyInfo.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\staticwebassets\AtividadePizzariaIsmael.StaticWebAssets.Manifest.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\staticwebassets\AtividadePizzariaIsmael.StaticWebAssets.xml
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\scopedcss\bundle\AtividadePizzariaIsmael.styles.css
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.TagHelpers.input.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.TagHelpers.output.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorCoreGenerate.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Atualizar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Criar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Deletar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Detalhes.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Index.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Atualizar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Criar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Deletar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Detalhes.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Index.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\_NovoItem.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Atualizar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Criar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Deletar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Detalhes.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Index.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorTargetAssemblyInfo.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorTargetAssemblyInfo.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.Views.pdb
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\ref\AtividadePizzariaIsmael.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.pdb
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.genruntimeconfig.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.csproj.CopyComplete
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael-main\AtividadePizzaria-main\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.csproj.AssemblyReference.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\appsettings.json
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.deps.json
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.runtimeconfig.json
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.runtimeconfig.dev.json
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\ref\AtividadePizzariaIsmael.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.pdb
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.Views.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.Views.pdb
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.csproj.AssemblyReference.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.AssemblyInfoInputs.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.AssemblyInfo.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.csproj.CoreCompileInputs.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorAssemblyInfo.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorAssemblyInfo.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\staticwebassets\AtividadePizzariaIsmael.StaticWebAssets.Manifest.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\staticwebassets\AtividadePizzariaIsmael.StaticWebAssets.xml
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\scopedcss\bundle\AtividadePizzariaIsmael.styles.css
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.TagHelpers.input.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.TagHelpers.output.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorCoreGenerate.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Atualizar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Criar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Deletar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Detalhes.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Index.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Atualizar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Criar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Deletar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Detalhes.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Index.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\_NovoItem.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Atualizar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Criar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Deletar.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Detalhes.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Index.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorTargetAssemblyInfo.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.RazorTargetAssemblyInfo.cs
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.Views.pdb
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\ref\AtividadePizzariaIsmael.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.pdb
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.genruntimeconfig.cache
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzariaIsmael.csproj.CopyComplete
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzariaIsmael.exe
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ismael.hmarques\Desktop\AtividadePizzariaIsmael\AtividadePizzariaIsmael\AtividadePizzaria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AtividadePizzaria-main",
-    "\\AtividadePizzaria-main\\AtividadePizzaria"
+    "\\AtividadePizzariaIsmael",
+    "\\AtividadePizzariaIsmael\\AtividadePizzaria",
+    "\\AtividadePizzariaIsmael\\AtividadePizzaria\\Views",
+    "\\AtividadePizzariaIsmael\\AtividadePizzaria\\Views\\Shared"
   ],
-  "SelectedNode": "\\AtividadePizzaria-main\\AtividadePizzaria\\Startup.cs",
+  "SelectedNode": "\\AtividadePizzariaIsmael\\AtividadePizzariaIsmael.sln",
   "PreviewInSolutionExplorer": false
 }
